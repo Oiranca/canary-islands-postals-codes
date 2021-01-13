@@ -1,0 +1,33 @@
+{
+  "name": "canary-postals-codes",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Samuel Romero Arbelo",
+  "license": "ISC",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel-node": "babel-node --presets='@babel/preset-env' --ignore='foo|bar|baz'",
+    "start": "nodemon --exec npm run babel-node -- src/index.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.11"
+  },
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oiranca/canary-postals-codes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Oiranca/canary-postals-codes/issues"
+  },
+  "homepage": "https://github.com/Oiranca/canary-postals-codes#readme"
+}
