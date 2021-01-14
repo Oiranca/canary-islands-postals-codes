@@ -24,11 +24,11 @@ const extracted = (apiItems) => {
 
         if (!itemsExist.includes(items.province.code)) {
             itemsExist.push(items.province.code);
-            canaryProvince.provinces.push({'code:': items.province.code, 'name': items.province.name});
+            canaryProvince.provinces.push({'code': items.province.code, 'name': items.province.name});
 
         } else if (!itemsExist.includes(items.island.code)) {
             itemsExist.push(items.island.code);
-            canaryIsland.islands.push({'code:': items.island.code, 'name': items.island.name});
+            canaryIsland.islands.push({'province_code':items.province.code,'code': items.island.code, 'name': items.island.name});
 
         }
         if (items.code.substring(0, 2) === '35') {
