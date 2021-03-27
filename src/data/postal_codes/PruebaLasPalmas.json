@@ -1,0 +1,5267 @@
+[
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "029",
+    "municipalityName": "TINAJO",
+    "populationCode": "0002201",
+    "populationName": "MANCHA BLANCA",
+    "postalCode": "35560"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "029",
+    "municipalityName": "TINAJO",
+    "populationCode": "0003801",
+    "populationName": "SANTA (LA)",
+    "postalCode": "35560"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "029",
+    "municipalityName": "TINAJO",
+    "populationCode": "0004301",
+    "populationName": "TINAJO",
+    "postalCode": "35560"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "029",
+    "municipalityName": "TINAJO",
+    "populationCode": "0005601",
+    "populationName": "VEGUETA (LA)",
+    "postalCode": "35560"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0012001",
+    "populationName": "CUARTERIA EL UNO",
+    "postalCode": "35118"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0004301",
+    "populationName": "CORRALILLOS LOS",
+    "postalCode": "35118"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0004301",
+    "populationName": "CORRALILLOS LOS",
+    "postalCode": "35260"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "029",
+    "municipalityName": "TINAJO",
+    "populationCode": "0001701",
+    "populationName": "CUCHILLO (EL)",
+    "postalCode": "35560"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0003801",
+    "populationName": "BANDA (LA)",
+    "postalCode": "35269"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0002201",
+    "populationName": "PLAYA DE ARINAGA",
+    "postalCode": "35118"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0018901",
+    "populationName": "MONTAÑA SAN FRANCISCO",
+    "postalCode": "35118"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0008101",
+    "populationName": "TEMISAS",
+    "postalCode": "35270"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0005601",
+    "populationName": "CRUCE DE ARINAGA",
+    "postalCode": "35118"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0007501",
+    "populationName": "ROSAS (LAS)",
+    "postalCode": "35260"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0009401",
+    "populationName": "VARGAS",
+    "postalCode": "35269"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0019201",
+    "populationName": "MONTAÑA LOS VELEZ",
+    "postalCode": "35269"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0001701",
+    "populationName": "AGÜIMES",
+    "postalCode": "35260"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0006901",
+    "populationName": "GOLETA (LA)",
+    "postalCode": "35118"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0006901",
+    "populationName": "GOLETA (LA)",
+    "postalCode": "35260"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0023402",
+    "populationName": "POLIGONO DE ARINAGA",
+    "postalCode": "35118"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "002",
+    "municipalityName": "AGÜIMES",
+    "populationCode": "0023402",
+    "populationName": "POLIGONO DE ARINAGA",
+    "postalCode": "35119"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "006",
+    "municipalityName": "ARUCAS",
+    "populationCode": "0003801",
+    "populationName": "BAÑADEROS",
+    "postalCode": "35414"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "006",
+    "municipalityName": "ARUCAS",
+    "populationCode": "0002201",
+    "populationName": "ARUCAS",
+    "postalCode": "35400"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "006",
+    "municipalityName": "ARUCAS",
+    "populationCode": "0006901",
+    "populationName": "CASTILLOS (LOS)",
+    "postalCode": "35412"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "006",
+    "municipalityName": "ARUCAS",
+    "populationCode": "0005601",
+    "populationName": "CARDONES",
+    "postalCode": "35415"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "006",
+    "municipalityName": "ARUCAS",
+    "populationCode": "0018901",
+    "populationName": "PUERTILLO (EL)",
+    "postalCode": "35414"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "006",
+    "municipalityName": "ARUCAS",
+    "populationCode": "0012001",
+    "populationName": "SAN ANDRES",
+    "postalCode": "35414"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "006",
+    "municipalityName": "ARUCAS",
+    "populationCode": "0011501",
+    "populationName": "PORTALES (LOS)",
+    "postalCode": "35412"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "006",
+    "municipalityName": "ARUCAS",
+    "populationCode": "0017301",
+    "populationName": "TINOCAS",
+    "postalCode": "35413"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "006",
+    "municipalityName": "ARUCAS",
+    "populationCode": "0013601",
+    "populationName": "SANTIDAD",
+    "postalCode": "35411"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "006",
+    "municipalityName": "ARUCAS",
+    "populationCode": "0014101",
+    "populationName": "TRAPICHE",
+    "postalCode": "35413"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "006",
+    "municipalityName": "ARUCAS",
+    "populationCode": "0019201",
+    "populationName": "TRES BARRIOS",
+    "postalCode": "35412"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "006",
+    "municipalityName": "ARUCAS",
+    "populationCode": "0019201",
+    "populationName": "TRES BARRIOS",
+    "postalCode": "35413"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0003801",
+    "populationName": "AGUATONA",
+    "postalCode": "35250"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0003801",
+    "populationName": "AGUATONA",
+    "postalCode": "35259"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0004399",
+    "populationName": "BARRANCO DE GUAYADEQUE",
+    "postalCode": "35250"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0004399",
+    "populationName": "BARRANCO DE GUAYADEQUE",
+    "postalCode": "35259"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0005601",
+    "populationName": "BURRERO (EL)",
+    "postalCode": "35240"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0005601",
+    "populationName": "BURRERO (EL)",
+    "postalCode": "35259"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0001701",
+    "populationName": "CARRIZAL",
+    "postalCode": "35240"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0001701",
+    "populationName": "CARRIZAL",
+    "postalCode": "35425"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0006901",
+    "populationName": "CARRION (EL)",
+    "postalCode": "35250"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0002201",
+    "populationName": "INGENIO",
+    "postalCode": "35240"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0002201",
+    "populationName": "INGENIO",
+    "postalCode": "35250"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0007501",
+    "populationName": "LOMO DEL HOSPITAL",
+    "postalCode": "35250"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0008199",
+    "populationName": "MARFU",
+    "postalCode": "35259"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0009401",
+    "populationName": "MEJIAS (LAS)",
+    "postalCode": "35250"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0010801",
+    "populationName": "MONDRAGON",
+    "postalCode": "35000"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0010801",
+    "populationName": "MONDRAGON",
+    "postalCode": "35250"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0011599",
+    "populationName": "MORISCOS (LOS)",
+    "postalCode": "35259"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0012001",
+    "populationName": "PASADILLA-ROQUE",
+    "postalCode": "35250"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "011",
+    "municipalityName": "INGENIO",
+    "populationCode": "0013601",
+    "populationName": "PUNTILLAS (LAS)",
+    "postalCode": "35259"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "005",
+    "municipalityName": "ARTENARA",
+    "populationCode": "0006901",
+    "populationName": "ARBEJAS (LAS)",
+    "postalCode": "35350"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "005",
+    "municipalityName": "ARTENARA",
+    "populationCode": "0001701",
+    "populationName": "ACUSA VERDE",
+    "postalCode": "35350"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "005",
+    "municipalityName": "ARTENARA",
+    "populationCode": "0007501",
+    "populationName": "CANDELARIA",
+    "postalCode": "35350"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "005",
+    "municipalityName": "ARTENARA",
+    "populationCode": "0002201",
+    "populationName": "ARTENARA",
+    "postalCode": "35350"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "005",
+    "municipalityName": "ARTENARA",
+    "populationCode": "0003801",
+    "populationName": "CORUÑA",
+    "postalCode": "35350"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "005",
+    "municipalityName": "ARTENARA",
+    "populationCode": "0008101",
+    "populationName": "CUEVAS (LAS)",
+    "postalCode": "35350"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "005",
+    "municipalityName": "ARTENARA",
+    "populationCode": "0005601",
+    "populationName": "LUGAREJOS",
+    "postalCode": "35350"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0001701",
+    "populationName": "BARRANCO DEL PINAR",
+    "postalCode": "35457"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0002299",
+    "populationName": "BARRANQUILLO FRIO",
+    "postalCode": "35458"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0004301",
+    "populationName": "CALABOZO (EL)",
+    "postalCode": "35458"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0005601",
+    "populationName": "CASAS DE AGUILAR",
+    "postalCode": "35458"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0007501",
+    "populationName": "MONDRAGONES",
+    "postalCode": "35458"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0006999",
+    "populationName": "JUNQUILLO (EL)",
+    "postalCode": "35457"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0008101",
+    "populationName": "MONTAÑA ALTA",
+    "postalCode": "35457"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0009401",
+    "populationName": "PALMITAL (EL)",
+    "postalCode": "35458"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0010801",
+    "populationName": "PASO MARIA DE LOS SANTOS",
+    "postalCode": "35458"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0011501",
+    "populationName": "SAN FELIPE",
+    "postalCode": "35458"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0013601",
+    "populationName": "SANTA MARIA DE GUIA",
+    "postalCode": "35450"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0012001",
+    "populationName": "SAN JUAN",
+    "postalCode": "35458"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0015499",
+    "populationName": "VERDEJO",
+    "postalCode": "35457"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0014101",
+    "populationName": "TRES PALMAS",
+    "postalCode": "35458"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0001799",
+    "populationName": "CARRIZAL (EL)",
+    "postalCode": "35368"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "023",
+    "municipalityName": "SANTA MARÍA DE GUÍA DE GRAN CANARIA",
+    "populationCode": "0016701",
+    "populationName": "VERGARA",
+    "postalCode": "35458"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0004399",
+    "populationName": "CHORRILLO (EL)",
+    "postalCode": "35368"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0016799",
+    "populationName": "CASAS DEL LOMO",
+    "postalCode": "35360"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0002299",
+    "populationName": "CUEVAS CAIDAS",
+    "postalCode": "35368"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0017399",
+    "populationName": "CRUCITAS (LAS)",
+    "postalCode": "35360"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0003899",
+    "populationName": "CULATA (LA)",
+    "postalCode": "35360"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0003899",
+    "populationName": "CULATA (LA)",
+    "postalCode": "35368"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0005699",
+    "populationName": "DEGOLLADA (LA)",
+    "postalCode": "35360"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0006999",
+    "populationName": "ESPINILLO (EL)",
+    "postalCode": "35368"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0008199",
+    "populationName": "JUNCAL (EL)",
+    "postalCode": "35360"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0008199",
+    "populationName": "JUNCAL (EL)",
+    "postalCode": "35368"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0009401",
+    "populationName": "LOMO DE LOS SANTOS",
+    "postalCode": "35360"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0010899",
+    "populationName": "MAJUELO (EL)",
+    "postalCode": "35360"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0011599",
+    "populationName": "RINCON (EL)",
+    "postalCode": "35360"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0019299",
+    "populationName": "ROQUE (EL)",
+    "postalCode": "35368"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0012099",
+    "populationName": "SOLANA (LA)",
+    "postalCode": "35368"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0013601",
+    "populationName": "TEJEDA",
+    "postalCode": "35360"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0014199",
+    "populationName": "TIMAGADA",
+    "postalCode": "35360"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0014199",
+    "populationName": "TIMAGADA",
+    "postalCode": "35368"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "025",
+    "municipalityName": "TEJEDA",
+    "populationCode": "0015499",
+    "populationName": "TOSCON (EL)",
+    "postalCode": "35368"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0006901",
+    "populationName": "MALA",
+    "postalCode": "35541"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0006901",
+    "populationName": "MALA",
+    "postalCode": "35542"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0006901",
+    "populationName": "MALA",
+    "postalCode": "35543"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0003801",
+    "populationName": "GUINATE",
+    "postalCode": "35541"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0008101",
+    "populationName": "PUNTA MUJERES",
+    "postalCode": "35542"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0009401",
+    "populationName": "TABAYESCO",
+    "postalCode": "35542"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0001701",
+    "populationName": "ARRIETA",
+    "postalCode": "35542"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0005601",
+    "populationName": "MAGUEZ",
+    "postalCode": "35541"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0005601",
+    "populationName": "MAGUEZ",
+    "postalCode": "35543"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0004301",
+    "populationName": "HARIA",
+    "postalCode": "35520"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0004301",
+    "populationName": "HARIA",
+    "postalCode": "35542"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0002201",
+    "populationName": "CHARCO DEL PALO",
+    "postalCode": "35542"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0002201",
+    "populationName": "CHARCO DEL PALO",
+    "postalCode": "35543"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0007501",
+    "populationName": "ORZOLA",
+    "postalCode": "35541"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "010",
+    "municipalityName": "HARÍA",
+    "populationCode": "0010801",
+    "populationName": "YE",
+    "postalCode": "35541"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0027199",
+    "populationName": "TOMAREN",
+    "postalCode": "35561"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0021399",
+    "populationName": "ANCONES (LOS)",
+    "postalCode": "35508"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0023401",
+    "populationName": "INGENIO (EL)",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0011501",
+    "populationName": "MUÑIQUE",
+    "postalCode": "35558"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0027102",
+    "populationName": "POZO IZQUIERDO",
+    "postalCode": "35110"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0018901",
+    "populationName": "TESEGUITE",
+    "postalCode": "35539"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0013601",
+    "populationName": "VECINDARIO",
+    "postalCode": "35110"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0025201",
+    "populationName": "MORISCO (EL)",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0030401",
+    "populationName": "SORRUEDA (LA)",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0008199",
+    "populationName": "LADERAS (LAS)",
+    "postalCode": "35530"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0024901",
+    "populationName": "LAGUNAS (LAS)",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0006901",
+    "populationName": "GUATIZA",
+    "postalCode": "35544"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0020601",
+    "populationName": "VALLES (LOS)",
+    "postalCode": "35539"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0014101",
+    "populationName": "SOO",
+    "postalCode": "35558"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0028702",
+    "populationName": "ROSIANA",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0003801",
+    "populationName": "CASA PASTORES",
+    "postalCode": "35110"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0010801",
+    "populationName": "MOZAGA",
+    "postalCode": "35561"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0012001",
+    "populationName": "NAZARET",
+    "postalCode": "35509"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0012001",
+    "populationName": "NAZARET",
+    "postalCode": "35539"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0026501",
+    "populationName": "PARRAL GRANDE",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0001799",
+    "populationName": "CABRERAS (LAS)",
+    "postalCode": "35507"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0002201",
+    "populationName": "CALETA DE FAMARA",
+    "postalCode": "35530"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0002201",
+    "populationName": "CALETA DE FAMARA",
+    "postalCode": "35558"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0024901",
+    "populationName": "CHARCO DEL PALO",
+    "postalCode": "35543"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0024901",
+    "populationName": "CHARCO DEL PALO",
+    "postalCode": "35544"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0011501",
+    "populationName": "SARDINA",
+    "postalCode": "35110"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0025201",
+    "populationName": "GRACIOSA (LA)",
+    "postalCode": "35509"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0025201",
+    "populationName": "GRACIOSA (LA)",
+    "postalCode": "35540"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0009401",
+    "populationName": "MOJON (EL)",
+    "postalCode": "35539"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0022801",
+    "populationName": "CALETA DE CABALLO",
+    "postalCode": "35558"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0005601",
+    "populationName": "COSTA TEGUISE",
+    "postalCode": "35508"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0005601",
+    "populationName": "COSTA TEGUISE",
+    "postalCode": "35509"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0016701",
+    "populationName": "TAO",
+    "postalCode": "35558"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0016701",
+    "populationName": "TAO",
+    "postalCode": "35561"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "004",
+    "municipalityName": "ARRECIFE",
+    "populationCode": "0003801",
+    "populationName": "ARRECIFE",
+    "postalCode": "35500"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0004301",
+    "populationName": "CALETAS (LAS)",
+    "postalCode": "35509"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0001701",
+    "populationName": "CRUCE DE SARDINA",
+    "postalCode": "35110"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0002201",
+    "populationName": "DOCTORAL (EL)",
+    "postalCode": "35110"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0015401",
+    "populationName": "TAHICHE",
+    "postalCode": "35507"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0015401",
+    "populationName": "TAHICHE",
+    "postalCode": "35509"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0015401",
+    "populationName": "TAHICHE",
+    "postalCode": "35539"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0019201",
+    "populationName": "TIAGUA",
+    "postalCode": "35558"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0017301",
+    "populationName": "VILLA DE TEGUISE",
+    "postalCode": "35509"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0017301",
+    "populationName": "VILLA DE TEGUISE",
+    "postalCode": "35530"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "022",
+    "municipalityName": "SANTA LUCÍA DE TIRAJANA",
+    "populationCode": "0010801",
+    "populationName": "SANTA LUCIA",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "024",
+    "municipalityName": "TEGUISE",
+    "populationCode": "0023401",
+    "populationName": "COCOTEROS (LOS)",
+    "postalCode": "35544"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0003801",
+    "populationName": "CABO VERDE",
+    "postalCode": "35422"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0006999",
+    "populationName": "DORAMAS",
+    "postalCode": "35423"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0004301",
+    "populationName": "CARRETERIA",
+    "postalCode": "35423"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0007501",
+    "populationName": "DRAGOS (LOS)",
+    "postalCode": "35422"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0007501",
+    "populationName": "DRAGOS (LOS)",
+    "postalCode": "35423"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0002299",
+    "populationName": "BARRANCO DEL PINAR",
+    "postalCode": "35421"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0017301",
+    "populationName": "FONTANALES",
+    "postalCode": "35421"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0001799",
+    "populationName": "BARRANCO DEL LAUREL",
+    "postalCode": "35421"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0009499",
+    "populationName": "HOYAS DEL CAVADERO",
+    "postalCode": "35421"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0008101",
+    "populationName": "FRONTON",
+    "postalCode": "35422"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0005601",
+    "populationName": "COSTA (LA)",
+    "postalCode": "35413"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0011501",
+    "populationName": "LANCE",
+    "postalCode": "35423"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0013699",
+    "populationName": "LOMO DEL PEÑON",
+    "postalCode": "35421"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0012001",
+    "populationName": "LOMO BLANCO",
+    "postalCode": "35423"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0015401",
+    "populationName": "PALMITO",
+    "postalCode": "35422"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0022899",
+    "populationName": "MORETO",
+    "postalCode": "35422"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0016701",
+    "populationName": "PALO",
+    "postalCode": "35423"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0018901",
+    "populationName": "SAN FERNANDO",
+    "postalCode": "35421"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0020699",
+    "populationName": "TILES (LOS)",
+    "postalCode": "35421"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0019299",
+    "populationName": "TABLERO (EL)",
+    "postalCode": "35421"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0023401",
+    "populationName": "TOSCALES (LOS)",
+    "postalCode": "35422"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0021301",
+    "populationName": "TRUJILLO",
+    "postalCode": "35422"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0001701",
+    "populationName": "ALBERCON",
+    "postalCode": "35470"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0001701",
+    "populationName": "ALBERCON",
+    "postalCode": "35479"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "013",
+    "municipalityName": "MOYA",
+    "populationCode": "0014101",
+    "populationName": "VILLA DE MOYA",
+    "postalCode": "35420"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0002201",
+    "populationName": "ARTEJEVEZ",
+    "postalCode": "35478"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0008101",
+    "populationName": "ALDEA DE SAN NICOLAS (LA)",
+    "postalCode": "35470"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0008101",
+    "populationName": "ALDEA DE SAN NICOLAS (LA)",
+    "postalCode": "35479"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0012001",
+    "populationName": "CARDONERA (LA)",
+    "postalCode": "35470"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0013601",
+    "populationName": "CERCADILLOS",
+    "postalCode": "35470"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0003801",
+    "populationName": "ESPINOS (LOS)",
+    "postalCode": "35470"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0003801",
+    "populationName": "ESPINOS (LOS)",
+    "postalCode": "35479"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0004301",
+    "populationName": "HOYO (EL)",
+    "postalCode": "35478"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0005601",
+    "populationName": "MARCIEGAS (LAS)",
+    "postalCode": "35479"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0006901",
+    "populationName": "MEDEROS",
+    "postalCode": "35479"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0014101",
+    "populationName": "MOLINO DE AGUA",
+    "postalCode": "35470"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0015401",
+    "populationName": "MOLINO DE VIENTO",
+    "postalCode": "35470"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0007501",
+    "populationName": "MOLINOS (LOS)",
+    "postalCode": "35470"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0007501",
+    "populationName": "MOLINOS (LOS)",
+    "postalCode": "35479"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0016701",
+    "populationName": "PINILLO (EL)",
+    "postalCode": "35470"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0009401",
+    "populationName": "TASARTE",
+    "postalCode": "35470"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0009401",
+    "populationName": "TASARTE",
+    "postalCode": "35478"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0009401",
+    "populationName": "TASARTE",
+    "postalCode": "35479"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0017301",
+    "populationName": "PLAYA DE SAN NICOLAS",
+    "postalCode": "35479"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0011501",
+    "populationName": "TOCODOMAN",
+    "postalCode": "35478"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "020",
+    "municipalityName": "ALDEA DE SAN NICOLÁS (LA)",
+    "populationCode": "0010801",
+    "populationName": "TASARTICO",
+    "postalCode": "35478"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0014101",
+    "populationName": "BARRIAL",
+    "postalCode": "35460"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0014101",
+    "populationName": "BARRIAL",
+    "postalCode": "35488"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0001701",
+    "populationName": "CAIDEROS",
+    "postalCode": "35468"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0001701",
+    "populationName": "CAIDEROS",
+    "postalCode": "35640"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0002201",
+    "populationName": "FAGAJESTO",
+    "postalCode": "35460"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0002201",
+    "populationName": "FAGAJESTO",
+    "postalCode": "35468"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0003803",
+    "populationName": "GALDAR",
+    "postalCode": "35460"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0003803",
+    "populationName": "GALDAR",
+    "postalCode": "35640"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0012001",
+    "populationName": "HOYA DE PINEDA",
+    "postalCode": "35188"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0012001",
+    "populationName": "HOYA DE PINEDA",
+    "postalCode": "35488"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0005601",
+    "populationName": "JUNCALILLO",
+    "postalCode": "35468"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0015401",
+    "populationName": "MARMOLEJOS",
+    "postalCode": "35460"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0015401",
+    "populationName": "MARMOLEJOS",
+    "postalCode": "35468"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0015401",
+    "populationName": "MARMOLEJOS",
+    "postalCode": "35488"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0006901",
+    "populationName": "PUERTO DE SARDINA",
+    "postalCode": "35469"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0006901",
+    "populationName": "PUERTO DE SARDINA",
+    "postalCode": "35488"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0013601",
+    "populationName": "QUINTANAS Y PISO FIRME LOS",
+    "postalCode": "35460"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0013601",
+    "populationName": "QUINTANAS Y PISO FIRME LOS",
+    "postalCode": "35488"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0008101",
+    "populationName": "SAN ISIDRO",
+    "postalCode": "35488"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "009",
+    "municipalityName": "GÁLDAR",
+    "populationCode": "0010801",
+    "populationName": "SAUCILLO",
+    "postalCode": "35468"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0001701",
+    "populationName": "ANGOSTURA (LA)",
+    "postalCode": "35300"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0001701",
+    "populationName": "ANGOSTURA (LA)",
+    "postalCode": "35309"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0027101",
+    "populationName": "CANTERA (LA)",
+    "postalCode": "35217"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "007",
+    "municipalityName": "BETANCURIA",
+    "populationCode": "0002201",
+    "populationName": "VALLE DE SANTA INES",
+    "postalCode": "35637"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0009401",
+    "populationName": "ESQUINZO",
+    "postalCode": "35626"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0009401",
+    "populationName": "ESQUINZO",
+    "postalCode": "35627"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0007501",
+    "populationName": "SANTA BRIGIDA",
+    "postalCode": "35300"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "003",
+    "municipalityName": "ANTIGUA",
+    "populationCode": "0005601",
+    "populationName": "VALLES DE ORTEGA",
+    "postalCode": "35638"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0008102",
+    "populationName": "COSTA CALMA",
+    "postalCode": "35627"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0020601",
+    "populationName": "VALSEQUILLO",
+    "postalCode": "35217"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "003",
+    "municipalityName": "ANTIGUA",
+    "populationCode": "0004301",
+    "populationName": "TRIQUIVIJATE",
+    "postalCode": "35369"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "003",
+    "municipalityName": "ANTIGUA",
+    "populationCode": "0004301",
+    "populationName": "TRIQUIVIJATE",
+    "postalCode": "35630"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "003",
+    "municipalityName": "ANTIGUA",
+    "populationCode": "0004301",
+    "populationName": "TRIQUIVIJATE",
+    "postalCode": "35638"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "003",
+    "municipalityName": "ANTIGUA",
+    "populationCode": "0004301",
+    "populationName": "TRIQUIVIJATE",
+    "postalCode": "35639"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0007501",
+    "populationName": "AJUY",
+    "postalCode": "35627"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0007501",
+    "populationName": "AJUY",
+    "postalCode": "35628"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0002201",
+    "populationName": "CASILLAS (LAS)",
+    "postalCode": "35216"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0009401",
+    "populationName": "LENTISCOS (LOS)",
+    "postalCode": "35310"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0011501",
+    "populationName": "LLANETES (LOS)",
+    "postalCode": "35217"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "003",
+    "municipalityName": "ANTIGUA",
+    "populationCode": "0002201",
+    "populationName": "ANTIGUA",
+    "postalCode": "35630"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "003",
+    "municipalityName": "ANTIGUA",
+    "populationCode": "0002201",
+    "populationName": "ANTIGUA",
+    "postalCode": "35638"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0028701",
+    "populationName": "PEDREGAL (EL)",
+    "postalCode": "35216"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0028701",
+    "populationName": "PEDREGAL (EL)",
+    "postalCode": "35628"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0004301",
+    "populationName": "MONTE LENTISCAL",
+    "postalCode": "35310"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "003",
+    "municipalityName": "ANTIGUA",
+    "populationCode": "0003801",
+    "populationName": "CASILLAS DE MORALES",
+    "postalCode": "35638"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0016701",
+    "populationName": "RINCON (EL)",
+    "postalCode": "35216"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "003",
+    "municipalityName": "ANTIGUA",
+    "populationCode": "0001701",
+    "populationName": "AGUA DE BUEYES",
+    "postalCode": "35638"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0002201",
+    "populationName": "ATALAYA (LA)",
+    "postalCode": "35307"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0002201",
+    "populationName": "ATALAYA (LA)",
+    "postalCode": "35308"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0002201",
+    "populationName": "ATALAYA (LA)",
+    "postalCode": "35310"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0006901",
+    "populationName": "TOTO",
+    "postalCode": "35628"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0006901",
+    "populationName": "TOTO",
+    "postalCode": "35629"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0012001",
+    "populationName": "PIEDRAS CAIDAS",
+    "postalCode": "35626"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0005601",
+    "populationName": "PAJARA",
+    "postalCode": "35625"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0005601",
+    "populationName": "PAJARA",
+    "postalCode": "35627"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0005601",
+    "populationName": "PAJARA",
+    "postalCode": "35628"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0011501",
+    "populationName": "PARED (LA)",
+    "postalCode": "35627"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0011501",
+    "populationName": "PARED (LA)",
+    "postalCode": "35628"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0003801",
+    "populationName": "GAMONAL (EL)",
+    "postalCode": "35300"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0003801",
+    "populationName": "GAMONAL (EL)",
+    "postalCode": "35308"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0009401",
+    "populationName": "LOMITOS DE CORREA",
+    "postalCode": "35217"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0010801",
+    "populationName": "OLIVOS (LOS)",
+    "postalCode": "35308"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0010801",
+    "populationName": "MAL NOMBRE",
+    "postalCode": "35626"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0010801",
+    "populationName": "MAL NOMBRE",
+    "postalCode": "35627"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "007",
+    "municipalityName": "BETANCURIA",
+    "populationCode": "0003801",
+    "populationName": "VEGA DE RIO PALMAS",
+    "postalCode": "35637"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "007",
+    "municipalityName": "BETANCURIA",
+    "populationCode": "0001701",
+    "populationName": "BETANCURIA",
+    "postalCode": "35637"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0024901",
+    "populationName": "BARRERA (LA)",
+    "postalCode": "35217"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0005601",
+    "populationName": "PINO SANTO",
+    "postalCode": "35309"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0019201",
+    "populationName": "TENTENIGUADA",
+    "postalCode": "35216"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0018901",
+    "populationName": "TECEN DE VALSEQUILLO",
+    "postalCode": "35217"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0001701",
+    "populationName": "CARDON",
+    "postalCode": "35627"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0001701",
+    "populationName": "CARDON",
+    "postalCode": "35628"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0008101",
+    "populationName": "VEGA DE ENMEDIO",
+    "postalCode": "35308"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0005601",
+    "populationName": "ERA DE MOTA",
+    "postalCode": "35216"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0021301",
+    "populationName": "VALLE DE SAN ROQUE DE VALSEQUILLO",
+    "postalCode": "35217"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0029001",
+    "populationName": "TRONCON (EL)",
+    "postalCode": "35216"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0029001",
+    "populationName": "TRONCON (EL)",
+    "postalCode": "35628"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0006901",
+    "populationName": "HELECHAL (EL)",
+    "postalCode": "35217"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0004301",
+    "populationName": "MORRO JABLE",
+    "postalCode": "35625"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0004301",
+    "populationName": "MORRO JABLE",
+    "postalCode": "35626"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0014101",
+    "populationName": "PUNTA JANDIA",
+    "postalCode": "35625"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0014101",
+    "populationName": "PUNTA JANDIA",
+    "postalCode": "35626"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0022801",
+    "populationName": "VEGAS (LAS)",
+    "postalCode": "35216"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "003",
+    "municipalityName": "ANTIGUA",
+    "populationCode": "0006901",
+    "populationName": "CASTILLO (EL)",
+    "postalCode": "35610"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "003",
+    "municipalityName": "ANTIGUA",
+    "populationCode": "0006901",
+    "populationName": "CASTILLO (EL)",
+    "postalCode": "35630"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0013601",
+    "populationName": "SOLANA MATORRAL",
+    "postalCode": "35625"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0013601",
+    "populationName": "SOLANA MATORRAL",
+    "postalCode": "35626"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0013601",
+    "populationName": "SOLANA MATORRAL",
+    "postalCode": "35627"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0014199",
+    "populationName": "MONTAÑON (EL)",
+    "postalCode": "35216"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0011501",
+    "populationName": "SAN JOSE DE LAS VEGAS",
+    "postalCode": "35300"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "021",
+    "municipalityName": "SANTA BRÍGIDA",
+    "populationCode": "0011501",
+    "populationName": "SAN JOSE DE LAS VEGAS",
+    "postalCode": "35307"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0003801",
+    "populationName": "LAJITA (LA)",
+    "postalCode": "35627"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "015",
+    "municipalityName": "PÁJARA",
+    "populationCode": "0003801",
+    "populationName": "LAJITA (LA)",
+    "postalCode": "35628"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0001701",
+    "populationName": "ALMATRICHE",
+    "postalCode": "35018"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0012001",
+    "populationName": "GILES (LOS)",
+    "postalCode": "35018"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "001",
+    "municipalityName": "AGAETE",
+    "populationCode": "0002201",
+    "populationName": "VALLE DE AGAETE",
+    "postalCode": "35489"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "001",
+    "municipalityName": "AGAETE",
+    "populationCode": "0007501",
+    "populationName": "PUERTO DE LAS NIEVES",
+    "postalCode": "35480"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "001",
+    "municipalityName": "AGAETE",
+    "populationCode": "0007501",
+    "populationName": "PUERTO DE LAS NIEVES",
+    "postalCode": "35489"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0037901",
+    "populationName": "TENOYA",
+    "postalCode": "35018"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0001701",
+    "populationName": "ARIÑEZ",
+    "postalCode": "35328"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "001",
+    "municipalityName": "AGAETE",
+    "populationCode": "0006999",
+    "populationName": "LLANOS (LOS)",
+    "postalCode": "35489"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "001",
+    "municipalityName": "AGAETE",
+    "populationCode": "0005601",
+    "populationName": "HORNILLO (EL)",
+    "postalCode": "35489"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0003899",
+    "populationName": "CAMARETAS",
+    "postalCode": "35329"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0002201",
+    "populationName": "CORRALEJO",
+    "postalCode": "35660"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0049601",
+    "populationName": "MONTAÑETA (LA)",
+    "postalCode": "35017"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35001"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35002"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35003"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35004"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35005"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35006"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35007"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35008"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35009"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35010"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35011"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35012"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35013"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35014"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35015"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35016"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35018"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0024901",
+    "populationName": "PALMAS DE GRAN CANARIA (LAS)",
+    "postalCode": "35019"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "018",
+    "municipalityName": "SAN BARTOLOMÉ",
+    "populationCode": "0002201",
+    "populationName": "GUIME",
+    "postalCode": "35509"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "018",
+    "municipalityName": "SAN BARTOLOMÉ",
+    "populationCode": "0004301",
+    "populationName": "MONTAÑA BLANCA",
+    "postalCode": "35509"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0014101",
+    "populationName": "HOYOS (LOS)",
+    "postalCode": "35017"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0001701",
+    "populationName": "CALDERETA",
+    "postalCode": "35649"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "031",
+    "municipalityName": "VALSEQUILLO DE GRAN CANARIA",
+    "populationCode": "0026501",
+    "populationName": "LLANOS DEL CONDE",
+    "postalCode": "35217"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0016799",
+    "populationName": "GALAS",
+    "postalCode": "35328"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "018",
+    "municipalityName": "SAN BARTOLOMÉ",
+    "populationCode": "0006901",
+    "populationName": "SAN BARTOLOME",
+    "postalCode": "35550"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0013699",
+    "populationName": "CRUZ DE TEJEDA",
+    "postalCode": "35328"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0040299",
+    "populationName": "BERRIEL",
+    "postalCode": "35107"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "001",
+    "municipalityName": "AGAETE",
+    "populationCode": "0004399",
+    "populationName": "GUAYEDRA",
+    "postalCode": "35480"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0017399",
+    "populationName": "GALLEGO (EL)",
+    "postalCode": "35328"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0049699",
+    "populationName": "HORTIGONES (LOS)",
+    "postalCode": "35108"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "001",
+    "municipalityName": "AGAETE",
+    "populationCode": "0008101",
+    "populationName": "RISCO (EL)",
+    "postalCode": "35480"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0006901",
+    "populationName": "AYAGAURES",
+    "postalCode": "35109"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0039801",
+    "populationName": "BAHIA FELIZ",
+    "postalCode": "35107"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0012099",
+    "populationName": "CULATA (LA)",
+    "postalCode": "35100"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0050901",
+    "populationName": "TAFIRA",
+    "postalCode": "35017"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0050901",
+    "populationName": "TAFIRA",
+    "postalCode": "35018"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0004301",
+    "populationName": "CUEVA GRANDE",
+    "postalCode": "35329"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0048399",
+    "populationName": "FILIPINAS (LAS)",
+    "postalCode": "35128"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0071201",
+    "populationName": "CALDERIN",
+    "postalCode": "35106"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0071201",
+    "populationName": "CALDERIN",
+    "postalCode": "35109"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0036399",
+    "populationName": "HOYA GRANDE",
+    "postalCode": "35290"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0024901",
+    "populationName": "MONTAÑA LA DATA",
+    "postalCode": "35109"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "001",
+    "municipalityName": "AGAETE",
+    "populationCode": "0010899",
+    "populationName": "SAO (EL)",
+    "postalCode": "35489"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0019201",
+    "populationName": "MARZAGAN",
+    "postalCode": "35016"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0019201",
+    "populationName": "MARZAGAN",
+    "postalCode": "35229"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0016701",
+    "populationName": "JUAN GRANDE",
+    "postalCode": "35107"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0016701",
+    "populationName": "JUAN GRANDE",
+    "postalCode": "35119"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0026599",
+    "populationName": "PLATA (LA)",
+    "postalCode": "35369"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0030401",
+    "populationName": "SAN LORENZO",
+    "postalCode": "35018"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "028",
+    "municipalityName": "TÍAS",
+    "populationCode": "0008101",
+    "populationName": "TIAS",
+    "postalCode": "35572"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0008101",
+    "populationName": "CASAS BLANCAS",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0015499",
+    "populationName": "CRUZ DEL SAUCILLO",
+    "postalCode": "35329"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0014199",
+    "populationName": "CRUZ DEL HERRERO",
+    "postalCode": "35328"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0002201",
+    "populationName": "ALDEA BLANCA",
+    "postalCode": "35119"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0051699",
+    "populationName": "HUMBRIA (LA)",
+    "postalCode": "35290"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "016",
+    "municipalityName": "PALMAS DE GRAN CANARIA (LAS)",
+    "populationCode": "0036301",
+    "populationName": "TAMARACEITE",
+    "postalCode": "35018"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "028",
+    "municipalityName": "TÍAS",
+    "populationCode": "0004301",
+    "populationName": "MASDACHE",
+    "postalCode": "35572"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0005601",
+    "populationName": "AYACATA",
+    "postalCode": "35369"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "018",
+    "municipalityName": "SAN BARTOLOMÉ",
+    "populationCode": "0005601",
+    "populationName": "PLAYA HONDA",
+    "postalCode": "35509"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0015499",
+    "populationName": "HOYA GARCIA",
+    "postalCode": "35290"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "018",
+    "municipalityName": "SAN BARTOLOMÉ",
+    "populationCode": "0003801",
+    "populationName": "ISLOTE (EL)",
+    "postalCode": "35550"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0041999",
+    "populationName": "CANALIZO (EL)",
+    "postalCode": "35108"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "028",
+    "municipalityName": "TÍAS",
+    "populationCode": "0009401",
+    "populationName": "VEGA DE TEGOYO",
+    "postalCode": "35572"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0042499",
+    "populationName": "CASERONES DE FATAGA (LOS)",
+    "postalCode": "35108"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0002201",
+    "populationName": "BODEGUILLA (LA)",
+    "postalCode": "35328"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0002201",
+    "populationName": "BODEGUILLA (LA)",
+    "postalCode": "35329"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0010801",
+    "populationName": "CERCADOS DE ARAÑA",
+    "postalCode": "35369"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0052199",
+    "populationName": "MEDIA FANEGA",
+    "postalCode": "35109"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0033201",
+    "populationName": "TABLERO (EL)",
+    "postalCode": "35109"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0011501",
+    "populationName": "CERCADOS DE ESPINOS",
+    "postalCode": "35128"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0018901",
+    "populationName": "LOMO CARBONERO",
+    "postalCode": "35328"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0068899",
+    "populationName": "TEDERAS (LAS)",
+    "postalCode": "35109"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0032601",
+    "populationName": "SITIOS (LOS)",
+    "postalCode": "35290"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "028",
+    "municipalityName": "TÍAS",
+    "populationCode": "0001701",
+    "populationName": "ASOMADA (LA)",
+    "postalCode": "35571"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0058001",
+    "populationName": "PASITO BLANCO",
+    "postalCode": "35100"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0058001",
+    "populationName": "PASITO BLANCO",
+    "postalCode": "35106"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0004399",
+    "populationName": "ARTEARA",
+    "postalCode": "35108"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0072701",
+    "populationName": "MELONERAS (LAS)",
+    "postalCode": "35100"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0072701",
+    "populationName": "MELONERAS (LAS)",
+    "postalCode": "35106"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0072701",
+    "populationName": "MELONERAS (LAS)",
+    "postalCode": "35109"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0061401",
+    "populationName": "PLAYA DEL AGUILA",
+    "postalCode": "35107"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0066601",
+    "populationName": "SONNENLAND",
+    "postalCode": "35100"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0066601",
+    "populationName": "SONNENLAND",
+    "postalCode": "35290"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0056899",
+    "populationName": "PAJAR (EL)",
+    "postalCode": "35120"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0007501",
+    "populationName": "LECHUCILLA (LA)",
+    "postalCode": "35328"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0046199",
+    "populationName": "CHIRA",
+    "postalCode": "35128"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0053799",
+    "populationName": "MIMBRE (LA)",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0038501",
+    "populationName": "SAN FERNANDO",
+    "postalCode": "35100"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "028",
+    "municipalityName": "TÍAS",
+    "populationCode": "0002201",
+    "populationName": "CONIL",
+    "postalCode": "35572"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0073301",
+    "populationName": "MONTELEON",
+    "postalCode": "35109"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0031199",
+    "populationName": "SEQUERO (EL)",
+    "postalCode": "35290"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0065301",
+    "populationName": "SANTA AGUEDA",
+    "postalCode": "35128"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0059301",
+    "populationName": "PEDRAZO",
+    "postalCode": "35106"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0013601",
+    "populationName": "FATAGA",
+    "postalCode": "35108"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0013601",
+    "populationName": "FATAGA",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0034701",
+    "populationName": "TAIDIA",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "028",
+    "municipalityName": "TÍAS",
+    "populationCode": "0003801",
+    "populationName": "MACHER",
+    "postalCode": "35571"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "028",
+    "municipalityName": "TÍAS",
+    "populationCode": "0003801",
+    "populationName": "MACHER",
+    "postalCode": "35572"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "001",
+    "municipalityName": "AGAETE",
+    "populationCode": "0001701",
+    "populationName": "AGAETE",
+    "postalCode": "35480"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "001",
+    "municipalityName": "AGAETE",
+    "populationCode": "0001701",
+    "populationName": "AGAETE",
+    "postalCode": "35489"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0050999",
+    "populationName": "HUESA BERMEJA",
+    "postalCode": "35128"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0070501",
+    "populationName": "CAMPO INTERNACIONAL",
+    "postalCode": "35100"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0070501",
+    "populationName": "CAMPO INTERNACIONAL",
+    "postalCode": "35106"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0070501",
+    "populationName": "CAMPO INTERNACIONAL",
+    "postalCode": "35290"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0006901",
+    "populationName": "LAGUNETAS (LAS)",
+    "postalCode": "35328"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0016701",
+    "populationName": "PARCELAS LAS",
+    "postalCode": "35611"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0016701",
+    "populationName": "PUERTO CALERO",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0045899",
+    "populationName": "CIUDAD DE LIMA",
+    "postalCode": "35290"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0009401",
+    "populationName": "CASTILLO DEL ROMERAL",
+    "postalCode": "35100"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0009401",
+    "populationName": "CASTILLO DEL ROMERAL",
+    "postalCode": "35107"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0014102",
+    "populationName": "GARITA (LA)",
+    "postalCode": "35212"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0017399",
+    "populationName": "LOMITO DE TAIDIA",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0014199",
+    "populationName": "FLORIDA (LA)",
+    "postalCode": "35119"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0015401",
+    "populationName": "GAVIA (LA)",
+    "postalCode": "35218"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "027",
+    "municipalityName": "TEROR",
+    "populationCode": "0002201",
+    "populationName": "ARBEJALES",
+    "postalCode": "35333"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "030",
+    "municipalityName": "TUINEJE",
+    "populationCode": "0003801",
+    "populationName": "GINIGINAMAR",
+    "postalCode": "35620"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0004301",
+    "populationName": "BARRANQUILLO ANDRES",
+    "postalCode": "35128"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "027",
+    "municipalityName": "TEROR",
+    "populationCode": "0003801",
+    "populationName": "ESPARTERO",
+    "postalCode": "35338"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0045801",
+    "populationName": "BALITO",
+    "postalCode": "35129"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0005601",
+    "populationName": "CARACOL (EL)",
+    "postalCode": "35215"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0008101",
+    "populationName": "LECHUZA (LA)",
+    "postalCode": "35329"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0016701",
+    "populationName": "GORO (EL)",
+    "postalCode": "35215"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0016701",
+    "populationName": "GORO (EL)",
+    "postalCode": "35219"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0005699",
+    "populationName": "HOYA DEL GAMONAL",
+    "postalCode": "35329"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0017301",
+    "populationName": "GOTERAS (LAS)",
+    "postalCode": "35218"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0001701",
+    "populationName": "AMPUYENTA (LA)",
+    "postalCode": "35600"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0001701",
+    "populationName": "AMPUYENTA (LA)",
+    "postalCode": "35637"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0004301",
+    "populationName": "CAMBALUD",
+    "postalCode": "35430"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0004301",
+    "populationName": "CAMBALUD",
+    "postalCode": "35432"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0009401",
+    "populationName": "CASAS BLANCAS",
+    "postalCode": "35149"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "028",
+    "municipalityName": "TÍAS",
+    "populationCode": "0007501",
+    "populationName": "PUERTO DEL CARMEN",
+    "postalCode": "35510"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0014101",
+    "populationName": "ROSALES (LOS)",
+    "postalCode": "35430"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0014101",
+    "populationName": "ROSALES (LOS)",
+    "postalCode": "35432"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0005601",
+    "populationName": "CASABLANCA",
+    "postalCode": "35430"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0005601",
+    "populationName": "CASABLANCA",
+    "postalCode": "35431"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0005601",
+    "populationName": "CASABLANCA",
+    "postalCode": "35432"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0020602",
+    "populationName": "MASPALOMAS",
+    "postalCode": "35100"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0010801",
+    "populationName": "PUERTO LAJAS",
+    "postalCode": "35612"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0009401",
+    "populationName": "PUERTO DEL ROSARIO",
+    "postalCode": "35500"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0009401",
+    "populationName": "PUERTO DEL ROSARIO",
+    "postalCode": "35600"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0009401",
+    "populationName": "PUERTO DEL ROSARIO",
+    "postalCode": "35610"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0049601",
+    "populationName": "CANARIOS II,III,IV Y V",
+    "postalCode": "35129"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0006901",
+    "populationName": "CORTIJO (EL)",
+    "postalCode": "35432"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "027",
+    "municipalityName": "TEROR",
+    "populationCode": "0001701",
+    "populationName": "ALAMO (EL)",
+    "postalCode": "35330"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "027",
+    "municipalityName": "TEROR",
+    "populationCode": "0001701",
+    "populationName": "ALAMO (EL)",
+    "postalCode": "35338"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "027",
+    "municipalityName": "TEROR",
+    "populationCode": "0001701",
+    "populationName": "ALAMO (EL)",
+    "postalCode": "35339"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0037999",
+    "populationName": "HOYA DE TUNTE",
+    "postalCode": "35290"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0019201",
+    "populationName": "HORNOS DEL REY (LOS)",
+    "postalCode": "35220"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0019201",
+    "populationName": "HORNOS DEL REY (LOS)",
+    "postalCode": "35229"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0012002",
+    "populationName": "TESJUATES",
+    "postalCode": "35611"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0006901",
+    "populationName": "LLANOS DE LA CONCEPCION",
+    "postalCode": "35637"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0003801",
+    "populationName": "CALDERA (LA)",
+    "postalCode": "35430"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0003801",
+    "populationName": "CALDERA (LA)",
+    "postalCode": "35432"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0018999",
+    "populationName": "LOMO DE LA PALMA",
+    "postalCode": "35369"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0043001",
+    "populationName": "CHARCA (LA)",
+    "postalCode": "35120"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0021301",
+    "populationName": "JEREZ",
+    "postalCode": "35215"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0013601",
+    "populationName": "TETIR",
+    "postalCode": "35600"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0013601",
+    "populationName": "TETIR",
+    "postalCode": "35612"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0013601",
+    "populationName": "TETIR",
+    "postalCode": "35613"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "032",
+    "municipalityName": "VALLESECO",
+    "populationCode": "0007501",
+    "populationName": "MONAGAS",
+    "postalCode": "35340"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0062999",
+    "populationName": "RISCO LA CANDELILLA",
+    "postalCode": "35369"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0028701",
+    "populationName": "MARPEQUEÑA",
+    "postalCode": "35212"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "027",
+    "municipalityName": "TEROR",
+    "populationCode": "0005601",
+    "populationName": "PALMAR (EL)",
+    "postalCode": "35339"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0018901",
+    "populationName": "CRUZ (LA)",
+    "postalCode": "35430"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0018901",
+    "populationName": "CRUZ (LA)",
+    "postalCode": "35432"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0027101",
+    "populationName": "PATALAVACA",
+    "postalCode": "35129"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "027",
+    "municipalityName": "TEROR",
+    "populationCode": "0009401",
+    "populationName": "ROSADAS (LAS)",
+    "postalCode": "35330"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0048301",
+    "populationName": "VALLE DE JINAMAR",
+    "postalCode": "35200"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0048301",
+    "populationName": "VALLE DE JINAMAR",
+    "postalCode": "35220"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0008101",
+    "populationName": "CAZADORES",
+    "postalCode": "35211"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0022899",
+    "populationName": "MONTAÑA (LA)",
+    "postalCode": "35290"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0025201",
+    "populationName": "LOMO MAGULLO",
+    "postalCode": "35211"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0036301",
+    "populationName": "PUERTO RICO",
+    "postalCode": "35130"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0030401",
+    "populationName": "TUNTE",
+    "postalCode": "35290"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0029001",
+    "populationName": "PIE DE LA CUESTA",
+    "postalCode": "35149"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0034701",
+    "populationName": "PLAYA DEL CURA (LA)",
+    "postalCode": "35138"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0046101",
+    "populationName": "VALLE DE LOS NUEVE",
+    "postalCode": "35211"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0002201",
+    "populationName": "FEMES",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0003801",
+    "populationName": "ARGUINEGUIN",
+    "postalCode": "35120"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "027",
+    "municipalityName": "TEROR",
+    "populationCode": "0008101",
+    "populationName": "TEROR",
+    "postalCode": "35330"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "027",
+    "municipalityName": "TEROR",
+    "populationCode": "0008101",
+    "populationName": "TEROR",
+    "postalCode": "35339"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0015499",
+    "populationName": "MACIOT",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0015499",
+    "populationName": "MACIOT",
+    "postalCode": "35580"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0029001",
+    "populationName": "SAN AGUSTIN",
+    "postalCode": "35100"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0007501",
+    "populationName": "YAIZA",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0040201",
+    "populationName": "TAURITO",
+    "postalCode": "35138"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0032601",
+    "populationName": "PLAYA DE TAURO (LA)",
+    "postalCode": "35138"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0039801",
+    "populationName": "REMUDAS (LAS)",
+    "postalCode": "35213"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0017301",
+    "populationName": "PUERTITO DE LOS MOLINOS",
+    "postalCode": "35611"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "032",
+    "municipalityName": "VALLESECO",
+    "populationCode": "0012001",
+    "populationName": "ZUMACAL",
+    "postalCode": "35000"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "032",
+    "municipalityName": "VALLESECO",
+    "populationCode": "0012001",
+    "populationName": "ZUMACAL",
+    "postalCode": "35340"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "032",
+    "municipalityName": "VALLESECO",
+    "populationCode": "0012001",
+    "populationName": "ZUMACAL",
+    "postalCode": "35349"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0019201",
+    "populationName": "LOMO QUINTANILLA",
+    "postalCode": "35430"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0019201",
+    "populationName": "LOMO QUINTANILLA",
+    "postalCode": "35432"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0010801",
+    "populationName": "PADILLA",
+    "postalCode": "35432"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0033201",
+    "populationName": "PALMITAL (EL)",
+    "postalCode": "35218"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0013601",
+    "populationName": "RISCO (EL)",
+    "postalCode": "35430"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0035001",
+    "populationName": "PUEBLO DE TAURO",
+    "postalCode": "35138"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0014101",
+    "populationName": "TIME (EL)",
+    "postalCode": "35613"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0015401",
+    "populationName": "FILIPINAS (LAS)",
+    "postalCode": "35128"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0021301",
+    "populationName": "MATORRAL (EL)",
+    "postalCode": "35107"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0029099",
+    "populationName": "MATANZA (LA)",
+    "postalCode": "35220"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "032",
+    "municipalityName": "VALLESECO",
+    "populationCode": "0004399",
+    "populationName": "CASERON",
+    "postalCode": "35349"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0036301",
+    "populationName": "PLAYA DE MELENARA",
+    "postalCode": "35214"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "030",
+    "municipalityName": "TUINEJE",
+    "populationCode": "0004301",
+    "populationName": "GRAN TARAJAL",
+    "postalCode": "35620"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "030",
+    "municipalityName": "TUINEJE",
+    "populationCode": "0004301",
+    "populationName": "GRAN TARAJAL",
+    "postalCode": "35629"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "030",
+    "municipalityName": "TUINEJE",
+    "populationCode": "0004301",
+    "populationName": "GRAN TARAJAL",
+    "postalCode": "35660"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0013699",
+    "populationName": "GERIA (LA)",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "030",
+    "municipalityName": "TUINEJE",
+    "populationCode": "0012001",
+    "populationName": "JUAN GOPAR",
+    "postalCode": "35628"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0043001",
+    "populationName": "TARA",
+    "postalCode": "35210"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0021301",
+    "populationName": "LLANOS (LOS)",
+    "postalCode": "35149"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0016799",
+    "populationName": "SAN ANTON",
+    "postalCode": "35430"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0016799",
+    "populationName": "SAN ANTON",
+    "postalCode": "35432"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0011501",
+    "populationName": "CORTIJO VIEJO",
+    "postalCode": "35370"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0011501",
+    "populationName": "CORTIJO VIEJO",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0007501",
+    "populationName": "CASERONES (LOS)",
+    "postalCode": "35218"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0053701",
+    "populationName": "VISTILLA (LA)",
+    "postalCode": "35140"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "030",
+    "municipalityName": "TUINEJE",
+    "populationCode": "0006901",
+    "populationName": "TARAJALEJO",
+    "postalCode": "35627"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0020601",
+    "populationName": "TRAPICHE",
+    "postalCode": "35432"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0019201",
+    "populationName": "HUMBRIDILLA (LA)",
+    "postalCode": "35149"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0008199",
+    "populationName": "CASITAS (LAS)",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0008199",
+    "populationName": "CASITAS (LAS)",
+    "postalCode": "35580"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0002201",
+    "populationName": "BREÑA (LA)",
+    "postalCode": "35211"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "032",
+    "municipalityName": "VALLESECO",
+    "populationCode": "0009401",
+    "populationName": "VALSENDERO",
+    "postalCode": "35349"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0004301",
+    "populationName": "PLAYA BLANCA",
+    "postalCode": "35580"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0005601",
+    "populationName": "UGA",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "032",
+    "municipalityName": "VALLESECO",
+    "populationCode": "0006901",
+    "populationName": "MADRELAGUA",
+    "postalCode": "35340"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0002201",
+    "populationName": "AQUAMARINA",
+    "postalCode": "35129"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "032",
+    "municipalityName": "VALLESECO",
+    "populationCode": "0001799",
+    "populationName": "BARRANCO",
+    "postalCode": "35349"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "032",
+    "municipalityName": "VALLESECO",
+    "populationCode": "0013601",
+    "populationName": "LOMO (EL)",
+    "postalCode": "35340"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0064001",
+    "populationName": "SALOBRE (EL)",
+    "postalCode": "35106"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0064001",
+    "populationName": "SALOBRE (EL)",
+    "postalCode": "35109"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0067299",
+    "populationName": "TARAJALILLO",
+    "postalCode": "35107"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0003801",
+    "populationName": "CASILLAS DEL ANGEL",
+    "postalCode": "35611"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "017",
+    "municipalityName": "PUERTO DEL ROSARIO",
+    "populationCode": "0003801",
+    "populationName": "CASILLAS DEL ANGEL",
+    "postalCode": "35637"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0012099",
+    "populationName": "DEGOLLADA (LA)",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0028701",
+    "populationName": "RISCO BLANCO",
+    "postalCode": "35280"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0030401",
+    "populationName": "PLATERO",
+    "postalCode": "35138"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "032",
+    "municipalityName": "VALLESECO",
+    "populationCode": "0010801",
+    "populationName": "VALLESECO",
+    "postalCode": "35340"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0003801",
+    "populationName": "GOLFO (EL)",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "030",
+    "municipalityName": "TUINEJE",
+    "populationCode": "0001701",
+    "populationName": "CASITAS (LAS)",
+    "postalCode": "35628"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "032",
+    "municipalityName": "VALLESECO",
+    "populationCode": "0011501",
+    "populationName": "ZAMORA",
+    "postalCode": "35340"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0057499",
+    "populationName": "PALMITOS (LOS)",
+    "postalCode": "35109"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0063599",
+    "populationName": "RODEOS (LOS)",
+    "postalCode": "35107"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0042401",
+    "populationName": "SAN JOSE DE LAS LONGUERAS",
+    "postalCode": "35210"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0027101",
+    "populationName": "PLAYA DEL INGLES",
+    "postalCode": "35100"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0031101",
+    "populationName": "PLAYA DE MOGAN",
+    "postalCode": "35138"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "008",
+    "municipalityName": "FIRGAS",
+    "populationCode": "0011501",
+    "populationName": "PELLAS (LAS)",
+    "postalCode": "35432"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "019",
+    "municipalityName": "SAN BARTOLOMÉ DE TIRAJANA",
+    "populationCode": "0054299",
+    "populationName": "MONTAÑA DE ROSIANA",
+    "postalCode": "35290"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0010801",
+    "populationName": "PLAYA QUEMADA",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0028701",
+    "populationName": "PEÑONES (LOS)",
+    "postalCode": "35128"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "012",
+    "municipalityName": "MOGÁN",
+    "populationCode": "0052101",
+    "populationName": "PLAYA DE VENEGUERA (LA)",
+    "postalCode": "35149"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0009499",
+    "populationName": "HOYA (LA)",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0009499",
+    "populationName": "HOYA (LA)",
+    "postalCode": "35580"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "034",
+    "municipalityName": "YAIZA",
+    "populationCode": "0001701",
+    "populationName": "BREÑAS (LAS)",
+    "postalCode": "35570"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "030",
+    "municipalityName": "TUINEJE",
+    "populationCode": "0010801",
+    "populationName": "TUINEJE",
+    "postalCode": "35628"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "026",
+    "municipalityName": "TELDE",
+    "populationCode": "0045801",
+    "populationName": "VALLE DE CASARES Y SOLANA",
+    "postalCode": "35218"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0011599",
+    "populationName": "MAJANICHO",
+    "postalCode": "35650"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0006901",
+    "populationName": "ROQUE EL",
+    "postalCode": "35650"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0003801",
+    "populationName": "COTILLO EL",
+    "postalCode": "35627"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0003801",
+    "populationName": "COTILLO EL",
+    "postalCode": "35650"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0003801",
+    "populationName": "COTILLO EL",
+    "postalCode": "35660"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0010899",
+    "populationName": "ISLA DE LOBOS",
+    "postalCode": "35660"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0009401",
+    "populationName": "VILLAVERDE",
+    "postalCode": "35640"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0009401",
+    "populationName": "VILLAVERDE",
+    "postalCode": "35649"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0008101",
+    "populationName": "VALLEBRON",
+    "postalCode": "35649"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0005601",
+    "populationName": "OLIVA (LA)",
+    "postalCode": "35640"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0005601",
+    "populationName": "OLIVA (LA)",
+    "postalCode": "35649"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0007501",
+    "populationName": "TINDAYA",
+    "postalCode": "35469"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0007501",
+    "populationName": "TINDAYA",
+    "postalCode": "35640"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0007501",
+    "populationName": "TINDAYA",
+    "postalCode": "35649"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0012001",
+    "populationName": "PARQUE HOLANDES",
+    "postalCode": "35469"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0012001",
+    "populationName": "PARQUE HOLANDES",
+    "postalCode": "35640"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0012001",
+    "populationName": "PARQUE HOLANDES",
+    "postalCode": "35649"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "014",
+    "municipalityName": "OLIVA (LA)",
+    "populationCode": "0004301",
+    "populationName": "LAJARES",
+    "postalCode": "35650"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0010801",
+    "populationName": "UTIACA",
+    "postalCode": "35328"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0019201",
+    "populationName": "SOLANA (LA)",
+    "postalCode": "35328"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0011501",
+    "populationName": "VEGA DE SAN MATEO",
+    "postalCode": "35328"
+  },
+  {
+    "provinceCode": "35",
+    "provinceName": "LAS PALMAS",
+    "municipalityCode": "033",
+    "municipalityName": "VEGA DE SAN MATEO",
+    "populationCode": "0012099",
+    "populationName": "YEDRA (LA)",
+    "postalCode": "35328"
+  }
+]
