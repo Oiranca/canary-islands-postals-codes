@@ -11,6 +11,7 @@ describe('Names with correct format', () => {
             sixthExample: 'Las Palmas de Gran Canaria',
             seventhExample: 'Gran Canaria',
             eighthExample: 'Tenerife',
+            ninthExample: 'Pasadilla-Roque',
         };
         expect(formatString('santa cruz de tenerife')).toEqual(nameExamples.firstExample);
         expect(formatString('castillo del romeral')).toEqual(nameExamples.secondExample);
@@ -22,5 +23,6 @@ describe('Names with correct format', () => {
         );
         expect(formatString('gran canaria')).toEqual(nameExamples.seventhExample);
         expect(formatString('tenerife')).toEqual(nameExamples.eighthExample);
+        expect(formatString('pasadilla-roque')).toEqual(nameExamples.ninthExample);
     });
 });

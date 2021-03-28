@@ -2,6 +2,7 @@ import { getMunicipalities } from '../../http/http';
 import lasPalmas from '../../data/postal_codes/ProvinceLasPalmasMunicipality.json';
 import tenerife from '../../data/postal_codes/ProvinceTenerifeMunicipality.json';
 import { createFolderIfNotExist } from './createFolderIfNotExist';
+import { formatString } from '../../formatDataName/formatDataName';
 
 const populizeWithIslandName = (m) =>
     m.populationentities.map((p) => ({
@@ -38,16 +39,20 @@ const generateCanaryPostalCodes = async () => {
 
     municipalities.push({
         island: 'GRACIOSA (LA)',
-        postal_code: 35540,
+        postal_code: '35540',
         population_name: 'CALETA DE SEBO',
     });
 
     municipalities.push({
-        island_name: 'GRACIOSA (LA)',
-        postal_code: 35540,
+        island: 'GRACIOSA (LA)',
+        postal_code: '35540',
         population_name: 'PEDRO BARBA',
     });
 
+    municipalities.forEach((items) => {
+        items.island = formatString(items.island);
+        items.population_name = formatString(items.population_name);
+    });
     return municipalities;
 };
 export default generateCanaryPostalCodes;

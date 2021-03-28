@@ -11,11 +11,9 @@ import fs from 'fs';
 let communityNumbers = [];
 let provinceNumber = [];
 let municipalityDataset = [];
-let populationDataset = [];
 let postalDataset = [];
 let lasPalmas = [];
 let santaCruzDeTenerife = [];
-let countGraciosa = 0;
 
 const searchIntoGeoApi = async () => {
     const populationZipcode = async (populationDatasets) => {
@@ -48,16 +46,12 @@ const searchIntoGeoApi = async () => {
                                         population_name: code.NENTSI50,
                                         postal_code: zipcode.CPOS,
                                     });
-
-                                    // console.log(code.NENTSI50);
                                 }
                             });
 
                             // createdJSONT(santaCruzDeTenerife,lasPalmas);
                         }
                     });
-                    console.log(lasPalmas.length);
-                    console.log(santaCruzDeTenerife.length);
                 },
             );
         });
