@@ -3,56 +3,37 @@ import lasPalmas from '../../data/postal_codes/ProvinceLasPalmasMunicipality.jso
 import tenerife from '../../data/postal_codes/ProvinceTenerifeMunicipality.json';
 import { createFolderIfNotExist } from './createFolderIfNotExist';
 import { formatString } from '../../formatDataName/formatDataName';
+import { LA_GRACIOSA_POPULATION_ENTITIES } from './constants';
 
-const populizeWithIslandName = (m) =>
-    m.populationentities.map((p) => ({
-        ...p,
-        island: m.island.name,
-    }));
+const formatAsOutput = (pc) => ({
+    island: formatString(pc.island),
+    population_name: formatString(pc.population_name),
+    postal_code: pc.postal_code,
+});
 
-const formatAsPostalCodes = (pc) => ({
+const addPopulationCode = (pc) => ({
     population_name: pc.population_name,
+    code: `${pc.province}${pc.municipality_code}`,
     postal_code: pc.postal_code,
 });
 
 const generateCanaryPostalCodes = async () => {
     createFolderIfNotExist();
 
-    const LAS_PALMAS_POSTAL_CODES = lasPalmas.map(formatAsPostalCodes);
-    const TENERIFE_POSTAL_CODES = tenerife.map(formatAsPostalCodes);
+    const municipalities = await getMunicipalities();
 
-    const formatAsOutput = (m) => ({
-        island: m.island,
-        population_name: m.name,
-        postal_code: [...LAS_PALMAS_POSTAL_CODES, ...TENERIFE_POSTAL_CODES].find(
-            (pc) => pc.population_name === m.name,
-        )?.postal_code,
+    const addIslandName = (pc) => ({
+        ...pc,
+        island: municipalities.find((m) => m.code === pc.code).island.name,
     });
 
-    const municipalitiesRaw = await getMunicipalities();
+    const postalCodes = [...lasPalmas, ...tenerife]
+        .map(addPopulationCode)
+        .map(addIslandName)
+        .map(formatAsOutput);
 
-    const municipalities = municipalitiesRaw
-        .map(populizeWithIslandName)
-        .flat()
-        .map(formatAsOutput)
-        .filter((m) => m.postal_code && m.population_name !== 'GRACIOSA (LA)');
-
-    municipalities.push({
-        island: 'GRACIOSA (LA)',
-        postal_code: '35540',
-        population_name: 'CALETA DE SEBO',
-    });
-
-    municipalities.push({
-        island: 'GRACIOSA (LA)',
-        postal_code: '35540',
-        population_name: 'PEDRO BARBA',
-    });
-
-    municipalities.forEach((items) => {
-        items.island = formatString(items.island);
-        items.population_name = formatString(items.population_name);
-    });
-    return municipalities;
+    return [...postalCodes, ...LA_GRACIOSA_POPULATION_ENTITIES].sort(
+        (pc1, pc2) => pc1.postal_code - pc2.postal_code,
+    );
 };
 export default generateCanaryPostalCodes;
