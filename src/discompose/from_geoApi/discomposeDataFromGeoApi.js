@@ -1,5 +1,4 @@
 import {
-    getMunicipalities,
     searchCommunity,
     searchMunicipality,
     searchPopulation,
