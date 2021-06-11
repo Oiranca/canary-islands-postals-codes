@@ -17,22 +17,20 @@ describe('search community number and his name', () => {
         expect(province).toEqual(expect.arrayContaining(geoApiMocks.PROVINCES));
         done();
     });
-    test('search las palmas mulicipality into GEOAPI', async (done) => {
+    test('search municipalities into GEOAPI', async (done) => {
         const municipality = await searchMunicipalities();
         expect(municipality).toContainEqual(
-            expect.arrayContaining(geoApiMocks.MUNICIPALITY.TENERIFE),
+            expect.objectContaining(geoApiMocks.MUNICIPALITY.TENERIFE),
         );
         expect(municipality).toContainEqual(
-            expect.arrayContaining(geoApiMocks.MUNICIPALITY.LASPALMAS),
+            expect.objectContaining(geoApiMocks.MUNICIPALITY.LASPALMAS),
         );
         done();
     });
 
     test('search population into GEOAPI', async (done) => {
         const population = await searchPopulations();
-        expect(population).toContainEqual(
-            expect.objectContaining(...geoApiMocks.POPULATION),
-        );
+        expect(population).toEqual(expect.arrayContaining(geoApiMocks.POPULATION));
         done();
     });
 });

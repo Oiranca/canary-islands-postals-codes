@@ -28,9 +28,10 @@ export const searchMunicipalities = async () => {
     let allMunicipalities = [];
     const provincesCodes = await isProvinceCode();
     for (const code of provincesCodes) {
-        allMunicipalities.push(
-            await searchMunicipality(code).then((municipalities) => municipalities.data),
+        const municipality = await searchMunicipality(code).then(
+            (municipalities) => municipalities.data,
         );
+        allMunicipalities.push(...municipality);
     }
     return allMunicipalities;
 };
@@ -38,50 +39,38 @@ export const searchMunicipalities = async () => {
 export const searchPopulations = async () => {
     const provincesCode = await isProvinceCode();
 
-    const areMunicipalities = await searchMunicipalities().then((codes) => {
-        let allMunicipalities = [];
-        codes.map((eachMunicipalities) => allMunicipalities.push(...eachMunicipalities));
-        return allMunicipalities;
-    });
+    const municipalitiesEachProvinces = await searchMunicipalities().then(
+        (codes) => codes,
+    );
 
-    const isaPopulation = async (eachProvincesCode, eachProvincesPopulation) => {
-        let population = [];
-        for (const codeMunicipality of eachProvincesPopulation) {
-            const provincePopulations = await searchPopulation(
-                eachProvincesCode,
+    const populationEachMunicipality = async (provinceCode, municipalities) => {
+        let populations = [];
+        for (const codeMunicipality of municipalities) {
+            const municipalityPopulations = await searchPopulation(
+                provinceCode,
                 codeMunicipality.CMUM,
             ).then((population) => population.data);
-            population.push(...provincePopulations);
+            populations.push(...municipalityPopulations);
         }
-        return population;
+        return populations;
     };
 
-    const arePopulations = async () => {
-        let allPopulation = [];
+    const allMunicipalityPopulations = async () => {
+        let allPopulations = [];
 
-        for (const isCode of provincesCode) {
-            const eachProvincesPopulation = areMunicipalities.filter(
-                (populations) => populations.CPRO === isCode,
+        for (const isCodeProvinces of provincesCode) {
+            const provincesMunicipalities = municipalitiesEachProvinces.filter(
+                (provinceCode) => provinceCode.CPRO === isCodeProvinces,
             );
-            const eachPopulations = await isaPopulation(isCode, eachProvincesPopulation);
+            const eachPopulations = await populationEachMunicipality(
+                isCodeProvinces,
+                provincesMunicipalities,
+            );
 
-            allPopulation.push(...eachPopulations);
+            allPopulations.push(...eachPopulations);
         }
-        areMunicipalities.map(async (codeMunicipality) => {
-            await searchPopulation(codeMunicipality.CPRO, codeMunicipality.CMUM).then(
-                (population) => {
-                    population.map((items) => {
-                        allPopulation.push({
-                            CPRO: items.CPRO,
-                            CMUM: items.CMUM,
-                            CUN: items.CUN,
-                            NENTSI50: items.NENTSI50,
-                        });
-                    });
-                },
-            );
-        });
-        return allPopulation;
+
+        return allPopulations;
     };
-    return arePopulations();
+    return allMunicipalityPopulations();
 };
