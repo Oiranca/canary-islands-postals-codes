@@ -4,6 +4,7 @@ import tenerife from '../../data/postal_codes/ProvinceTenerifeMunicipality.json'
 import { createFolderIfNotExist } from './createFolderIfNotExist';
 import { formatString } from '../../formatDataName/formatDataName';
 import { LA_GRACIOSA_POPULATION_ENTITIES } from './constants';
+import fs from 'fs';
 
 const formatAsOutput = (pc) => ({
     island: formatString(pc.island),
@@ -36,4 +37,18 @@ const generateCanaryPostalCodes = async () => {
         (pc1, pc2) => pc1.postal_code - pc2.postal_code,
     );
 };
+
+generateCanaryPostalCodes().then((canaryPostalCodes) => {
+    createdJSON(canaryPostalCodes, 'Canary_Postal_Codes');
+});
+
+function createdJSON(json, filename) {
+    fs.writeFile(`output/postal_codes/${filename}.json`, JSON.stringify(json), (err) => {
+        if (err) {
+            console.log(err);
+        } else {
+            console.log('Data written to Canary_Islands_Postal_Code file');
+        }
+    });
+}
 export default generateCanaryPostalCodes;
