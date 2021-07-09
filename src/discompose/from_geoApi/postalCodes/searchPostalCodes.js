@@ -1,12 +1,6 @@
 import { searchPopulations } from '../populations/searchPopulations';
 import { searchPopulationPostalCode } from '../../../http/http';
 
-// const arePopulations = async () => {
-//     return await searchPopulations().then((codesPopulation) =>
-//         codesPopulation.map((codes) => [codes.CPRO, codes.CMUM, codes.CUN]),
-//     );
-// };
-
 export const searchPostalCodes = async () => {
     const arePopulations = searchPopulations().then((codesPopulation) =>
         codesPopulation?.map((codes) => [codes.CPRO, codes.CMUM, codes.CUN]),
