@@ -9,16 +9,14 @@ import {
 
 jest.mock('../../populations/searchPopulations');
 
-searchPopulations.mockImplementation(async (provincesCode, municipalityCode) => {
-    if (provincesCode === '35' && municipalityCode === '001') {
-        return EXAMPLEPOPULATIONLASPALMAS;
-    }
+searchPopulations.mockImplementation(async () => {
+    return EXAMPLEPOPULATIONLASPALMAS;
 });
 
 jest.mock('../../../../http/http');
 
 searchPopulationPostalCode.mockImplementation(
-    (provinceCode, municipalityCode, populationCode) => {
+    async (provinceCode, municipalityCode, populationCode) => {
         if (
             provinceCode === '35' &&
             municipalityCode === '001' &&
@@ -31,8 +29,25 @@ searchPopulationPostalCode.mockImplementation(
 
 describe('search postal codes into GEOAPI', () => {
     test('return postal codes', async (done) => {
+        const POSTALCODE = [
+            {
+                CPRO: '35',
+                CMUM: '001',
+                CUN: '0001701',
+                CPOS: '35480',
+                CVIA: '00040',
+            },
+            {
+                CPRO: '35',
+                CMUM: '001',
+                CUN: '0001701',
+                CPOS: '35489',
+                CVIA: '00420',
+            },
+        ];
         const arePostalCode = await searchPostalCodes();
-        expect(arePostalCode).toEqual(expect.arrayContaining(EXAMPLEPOSTALCODELASPALMAS));
+
+        expect(arePostalCode).toEqual(expect.arrayContaining(POSTALCODE));
         done();
     });
 });
