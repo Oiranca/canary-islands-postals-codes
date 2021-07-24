@@ -6,7 +6,7 @@ export const searchMunicipalities = async () => {
     const provincesCodes = await searchProvinces();
     for (const code of provincesCodes) {
         const municipality = await searchMunicipality(code).then(
-            (municipalities) => municipalities,
+            (municipalities) => municipalities.data,
         );
         allMunicipalities.push(...municipality);
     }
