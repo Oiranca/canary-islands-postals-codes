@@ -1,56 +1,56 @@
-/*
-*
-* lasPalmas.push({
-                                        province: cod.CPRO,
-                                        municipality: cod.DMUN50,
-                                        municipality_code: cod.CMUM,
-                                        population_code: zipcode.CUN,
-                                        population_name: code.NENTSI50,
-                                        postal_code: zipcode.CPOS,
-                                    });
-                                }
-                            });
-                            // createdJSON(lasPalmas);
-                        } else if (zipcode.CPRO === '38') {
-                            municipalityDataset.filter((cod) => {
-                                if (cod.CMUM === zipcode.CMUM && cod.CPRO === '38') {
-                                    santaCruzDeTenerife.push({
-                                        province: cod.CPRO,
-                                        municipality: cod.DMUN50,
-                                        municipality_code: cod.CMUM,
-                                        population_code: zipcode.CUN,
-                                        population_name: code.NENTSI50,
-                                        postal_code: zipcode.CPOS,
-                                    });
-                                }
-
-De la búsqueda de los códigos postales podemos sacar el CPRO,CMUM,CUN,,CPOS
-* Primero tenemos que filtrar por provincia para poder luego hacer un filtrado por CMUN y así no mezclar las dos.
-
-Con el CUN podemos filtrar en poblaciones el NENTSI50
-
-Con el CUM podemos filtar en municipios el DMUN50
-
-* */
-import { searchPostalCodes } from './postalCodes/searchPostalCodes';
-import { searchPopulations } from './populations/searchPopulations';
 import { searchMunicipalities } from './municipalities/searchMunicipalities';
+import { searchPopulations } from './populations/searchPopulations';
+import { searchPostalCodes } from './postalCodes/searchPostalCodes';
 
-const typeData = {
-    province: '',
-    municipality: '',
-    municipality_code: '',
-    population_code: '',
-    population_name: '',
-    postal_code: '',
+const getPopulations = async (values) => {
+    let populations = [];
+    await searchPopulations().then((population) =>
+        population?.data.map((value) =>
+            values.map((codes) => {
+                if (codes.CPRO === value.CPRO && codes.CMUM === value.CMUM) {
+                    populations.push({
+                        province: codes.CPRO,
+                        municipality: codes.DMUN50,
+                        municipality_code: codes.CMUM,
+                        population_code: value.CUN,
+                        population_name: value.NENTSI50,
+                    });
+                }
+                return populations;
+            }),
+        ),
+    );
+    return populations;
 };
 
-const hasPostalCodes = [];
+const getZipCodes = async (populationValue) => {
+    let postalCodes = [];
+    await searchPostalCodes().then((zipCodes) =>
+        zipCodes?.data.map((value) =>
+            populationValue.filter((codes) => {
+                if (
+                    codes.province === value.CPRO &&
+                    codes.population_code === value.CUN
+                ) {
+                    postalCodes.push({
+                        ...codes,
+                        postal_code: value.CPOS,
+                    });
+                }
+                return postalCodes;
+            }),
+        ),
+    );
+    return postalCodes;
+};
 
 export const dataFromGeoApi = async () => {
-    const isPostalCode = await searchPostalCodes();
-    const isPopulation = await searchPopulations();
-    const isMunicipality = await searchMunicipalities();
-    hasPostalCodes.push(isPostalCode);
-    return hasPostalCodes;
+    return await searchMunicipalities()
+        .then((municipality) => municipality?.data)
+        .then(async (values) => {
+            return await getPopulations(values);
+        })
+        .then(async (populationValue) => {
+            return await getZipCodes(populationValue);
+        });
 };
