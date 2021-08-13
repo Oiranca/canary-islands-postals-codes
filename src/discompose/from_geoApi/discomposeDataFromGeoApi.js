@@ -1,5 +1,4 @@
 import {
-    getMunicipalities,
     searchCommunity,
     searchMunicipality,
     searchPopulation,
@@ -7,20 +6,29 @@ import {
     searchProvince,
 } from '../../http/http';
 import fs from 'fs';
+import generateCanaryPostalCodes from '../from_istac_api/generateCanaryPostalCodes';
 
-let communityNumbers = [];
-let provinceNumber = [];
-let municipalityDataset = [];
-let postalDataset = [];
-let lasPalmas = [];
-let santaCruzDeTenerife = [];
+const searchCanariansCode = async () =>
+    await searchCommunity().then((communityData) =>
+        communityData.data.filter((communityName) => communityName.COM === 'CANARIAS'),
+    );
 
 const searchIntoGeoApi = async () => {
+    let communityNumbers = [];
+    let provinceNumber = [];
+    let municipalityDataset = [];
+    let postalDataset = [];
+    let lasPalmas = [];
+    let santaCruzDeTenerife = [];
     const populationZipcode = async (populationDatasets) => {
-        populationDatasets.map(async (code) => {
-            await searchPopulationPostalCode(code.CPRO, code.CMUM, code.CUN).then(
-                (items) => {
-                    items.data.map((zipcode) => {
+        const c = populationDatasets.map(async (code) => {
+            const b = await searchPopulationPostalCode(
+                code.CPRO,
+                code.CMUM,
+                code.CUN,
+            ).then((items) => {
+                const a = items.data
+                    .map((zipcode) => {
                         if (zipcode.CPRO === '35') {
                             municipalityDataset.filter((cod) => {
                                 if (cod.CMUM === zipcode.CMUM && cod.CPRO === '35') {
@@ -49,11 +57,14 @@ const searchIntoGeoApi = async () => {
                                 }
                             });
 
-                            // createdJSONT(santaCruzDeTenerife,lasPalmas);
+                            return lasPalmas;
                         }
-                    });
-                },
-            );
+                    })
+                    .then((d) => console.log(d));
+                // return a;
+            });
+            // return b;
+            await generateCanaryPostalCodes(b);
         });
     };
 
@@ -65,9 +76,7 @@ const searchIntoGeoApi = async () => {
     };
 
     try {
-        communityNumbers = await searchCommunity().then((communityData) =>
-            communityData.data.map((communityCode) => communityCode),
-        );
+        communityNumbers = await searchCanariansCode();
 
         let numberToSearchProvinces = '';
         communityNumbers.map((communityCode) =>
@@ -92,6 +101,7 @@ const searchIntoGeoApi = async () => {
     } catch (e) {
         console.log(e);
     }
+    return lasPalmas;
 };
 
 const createdJSONTenerife = (tenerife) => {
