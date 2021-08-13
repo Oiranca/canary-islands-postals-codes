@@ -1,12 +1,12 @@
 import { searchProvinces } from '../searchProvinces';
 import { searchCommunities } from '../../communities/searchCommunities';
 import { searchProvince } from '../../../../http/http';
-import { provinces } from '../../mocks/mocks';
+import { PROVINCES } from '../../mocks/mocks';
 
 jest.mock('../../../../http/http');
 
 searchProvince.mockImplementation(async (communityCode) =>
-    communityCode === '05' ? provinces : undefined,
+    communityCode === '05' ? PROVINCES : undefined,
 );
 
 jest.mock('../../communities/searchCommunities');

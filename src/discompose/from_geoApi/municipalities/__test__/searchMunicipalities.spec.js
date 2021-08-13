@@ -17,10 +17,10 @@ describe('search municipality number and his name', () => {
     test('return las palmas municipalities into GEOAPI', async (done) => {
         const MUNICIPALITIES = [
             {
-                CMUM: '006',
+                CMUM: '001',
                 CPRO: '35',
                 CUN: '0000000',
-                DMUN50: 'ARUCAS',
+                DMUN50: 'AGAETE',
             },
         ];
 
@@ -31,10 +31,10 @@ describe('search municipality number and his name', () => {
     test('return tenerife municipalities into GEOAPI', async (done) => {
         const MUNICIPALITIES = [
             {
-                CMUM: '048',
+                CMUM: '001',
                 CPRO: '38',
                 CUN: '0000000',
-                DMUN50: 'VALVERDE',
+                DMUN50: 'ADEJE',
             },
         ];
 

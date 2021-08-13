@@ -1,9 +1,9 @@
 import { searchCommunities } from '../searchCommunities';
 import { searchCommunity } from '../../../../http/http';
-import { communities } from '../../mocks/mocks';
+import { COMMUNITIES } from '../../mocks/mocks';
 
 jest.mock('../../../../http/http');
-searchCommunity.mockImplementation(async () => communities);
+searchCommunity.mockImplementation(async () => COMMUNITIES);
 
 jest.mock('../searchCommunities');
 

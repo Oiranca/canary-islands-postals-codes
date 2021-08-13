@@ -9,9 +9,7 @@ import {
 
 jest.mock('../../populations/searchPopulations');
 
-searchPopulations.mockImplementation(async () => {
-    return EXAMPLEPOPULATIONLASPALMAS;
-});
+searchPopulations.mockImplementation(async () => EXAMPLEPOPULATIONLASPALMAS);
 
 jest.mock('../../../../http/http');
 

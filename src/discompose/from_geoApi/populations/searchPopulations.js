@@ -3,7 +3,7 @@ import { searchPopulation } from '../../../http/http';
 
 export const searchPopulations = async () => {
     const isCodeMunicipality = await searchMunicipalities().then((municipality) =>
-        municipality.map((code) => [code.CMUM, code.CPRO]),
+        municipality.data.map((code) => [code.CMUM, code.CPRO]),
     );
 
     const population = async () => {
@@ -14,7 +14,7 @@ export const searchPopulations = async () => {
                 codeMunicipality[0],
             ).then((population) => population);
 
-            municipalityPopulations?.map((population) =>
+            municipalityPopulations.data.map((population) =>
                 populationItems.push(population),
             );
         }
