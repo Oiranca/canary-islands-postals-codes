@@ -1,25 +1,25 @@
-export const LAS_PALMAS = {
-    data: [
+export const LAS_PALMAS =
+    [
         {
             CMUM: '001',
             CPRO: '35',
             CUN: '0000000',
             DMUN50: 'AGAETE',
         },
-    ],
-};
-export const TENERIFE = {
-    data: [
+    ];
+
+export const TENERIFE =
+    [
         {
             CMUM: '001',
             CPRO: '38',
             CUN: '0000000',
             DMUN50: 'ADEJE',
         },
-    ],
-};
-export const PROVINCES = {
-    data: [
+    ];
+
+export const PROVINCES =
+    [
         {
             CCOM: '05',
             CPRO: '35',
@@ -30,10 +30,9 @@ export const PROVINCES = {
             CPRO: '38',
             PRO: 'SANTA CRUZ DE TENERIFE',
         },
-    ],
-};
-export const COMMUNITIES = {
-    data: [
+    ];
+export const COMMUNITIES =
+    [
         {
             CCOM: '01',
             COM: 'ANDALUCÍA',
@@ -110,22 +109,22 @@ export const COMMUNITIES = {
             CCOM: '19',
             COM: 'MELILLA',
         },
-    ],
-};
+    ];
 
-export const EXAMPLEPOPULATIONLASPALMAS = {
-    data: [
+
+export const EXAMPLEPOPULATIONLASPALMAS =
+    [
         {
             CPRO: '35',
             CMUM: '001',
             CUN: '0001701',
             NENTSI50: 'AGAETE',
         },
-    ],
-};
+    ];
 
-export const EXAMPLEPOPULATIONS = {
-    data: [
+
+export const EXAMPLEPOPULATIONS =
+    [
         {
             CPRO: '35',
             CMUM: '001',
@@ -174,11 +173,11 @@ export const EXAMPLEPOPULATIONS = {
             CUN: '0002201',
             NENTSI50: 'VALLE DE AGAETE',
         },
-    ],
-};
+    ];
 
-export const EXAMPLEPOSTALCODELASPALMAS = {
-    data: [
+
+export const EXAMPLEPOSTALCODELASPALMAS =
+    [
         {
             CPRO: '35',
             CMUM: '001',
@@ -193,5 +192,5 @@ export const EXAMPLEPOSTALCODELASPALMAS = {
             CPOS: '35489',
             CVIA: '00420',
         },
-    ],
-};
+    ];
+

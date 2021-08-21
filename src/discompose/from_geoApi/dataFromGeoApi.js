@@ -5,7 +5,7 @@ import { searchPostalCodes } from './postalCodes/searchPostalCodes';
 const getPopulations = async (values) => {
     let populations = [];
     await searchPopulations().then((population) =>
-        population?.data.map((value) =>
+        population.map((value) =>
             values.map((codes) => {
                 if (codes.CPRO === value.CPRO && codes.CMUM === value.CMUM) {
                     populations.push({
@@ -26,7 +26,7 @@ const getPopulations = async (values) => {
 const getZipCodes = async (populationValue) => {
     let postalCodes = [];
     await searchPostalCodes().then((zipCodes) =>
-        zipCodes?.data.map((value) =>
+        zipCodes?.map((value) =>
             populationValue.filter((codes) => {
                 if (
                     codes.province === value.CPRO &&
@@ -46,7 +46,7 @@ const getZipCodes = async (populationValue) => {
 
 export const dataFromGeoApi = async () => {
     return await searchMunicipalities()
-        .then((municipality) => municipality?.data)
+        .then((municipality) => municipality)
         .then(async (values) => {
             return await getPopulations(values);
         })
